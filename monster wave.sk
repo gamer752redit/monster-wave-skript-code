@@ -1,0 +1,10 @@
+command /startwave:
+    trigger:
+        loop 10 times:
+            spawn zombie at player's location
+        loop 10 times:
+            spawn skeleton at player's location
+        loop 3 times:
+            spawn creeper at player's location
+        loop 5 times:
+            spawn breeze at player's location
