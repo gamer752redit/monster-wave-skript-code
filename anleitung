@@ -1,0 +1,37 @@
+1. lade dir das skript runter
+    - das skript findest du auch hier im github
+
+2. lade dir das plugin "Skript" herunter
+    - https://www.spigotmc.org/resources/skript.114544/
+
+3. starte deinen server
+
+4. zihe das heruntergeladene skript (join skript.sk) in das plugin
+    -plugins > Skript > scripts > monster wave.sk
+
+5. reloade dein Skript damit du direkt loslegen kannst!
+    - /skript reload monster wave.sk
+
+6. nutze /startwave um die Monste zu spawnen
+
+   ⚠️ BITTE GEBE DAS SKRUPT NICHT ALS DEINS AUS ⚠️
+
+
+
+   1. Download the script
+- You can also find the script here on GitHub
+
+2. Download the "Script" plugin
+- https://www.spigotmc.org/resources/skript.114544/
+
+3. Start your server
+
+4. Drag the downloaded script (join skript.sk) into the plugin
+- plugins > Skript > scripts > monsterwave.sk
+
+5. Reload your script so you can get started right away!
+- /skript reload monsterwave.sk
+
+6. Use /startwave to spawn the monsters
+
+⚠️ PLEASE DO NOT PASS THE SCRUPT AS YOURS ⚠️
